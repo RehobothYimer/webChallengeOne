@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>challenge by forentend</title>
-    <style>
-      .sub-container{
+ .sub-container{
         border:1px solid rgba(27, 20, 85, 0.699);
      margin-top:-5%;
      margin-bottom: -5%;
@@ -108,44 +100,3 @@ opacity: 0.9;
     margin-top:10%;
     margin-bottom:-5%;
     }
-</style>
-  </head>
-  <div>
-      <div class="container">
-        <div class="sub-container"> 
-          <div class="camp">
-            <div class="wrap"> 
-           <div class="wap">
-          get
-          <span class="color"> insights </span> that help your business grow.
-           </div>
-        <p>
-          Discover the benefits of data analytics and make better decisions
-          regarding revenue customer experience, and overall efficiency.
-        </p>
-   </div>
-        <div class="company-info">
-          <ul class="info-tab-1">
-            <li class="info-tab"> 10k+<br />COMPANIES</li>
-            <li class="info-tab">
-              314<br/>
-              TEMPLATES
-            </li>
-            <li class="info-tab">
-              12m+ <br />
-              QUERIES
-            </li>
-          </ul>
-          </div>
-          </div>
-        <div class="magic"> 
-        <img src="https://www.nextech.sk/files/photo/2019-04/59846/4b7fd4/10271530923-7a90e86542-h-e1422725693550.jpg">
-         </div>
-         </div>
-      <div class="tech"> 
-  challenged by <a href="https://www.frontendmentor.io" target="_blank"> frontendmentor</a>
-   coded by<a href="https://github.com/Robi316"> rehoboth aragaw</a></challenged>
-</div>
-</div>
-  </body>
-</html>
